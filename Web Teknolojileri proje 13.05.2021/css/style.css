@@ -1,0 +1,68 @@
+.resimSlider{
+    height: 600px;
+}
+body{
+ 
+ font-family: 'Raleway', sans-serif;
+}
+.hakkimda{
+    background-color:#f2f2f2;
+    
+}
+.ihakkımda{
+    font-weight: 700;
+}
+
+.ayrac{
+    border: none;
+    border-top: 3px solid#343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.igri{
+    color:#343a40;
+    position: relative;
+    top:-65px;
+    font-size:30px;
+}
+.ibeyaz{
+    color:#343a40;
+    position: relative;
+    top:-65px;
+    font-size:30px;
+    color: aliceblue;
+}
+.card-body{
+    height: 220px;
+    border:1px solid #ddd;
+    padding:2px;
+    font-weight: 400;
+    color:midnightblue;
+}
+.card-title{
+    font-size: 20px;
+    color:darkblue;
+    font-weight: 700;
+}
+.card-body:hover{
+    border:2px solid darkblue;
+}
+.egitim{
+    background-image: url("../img/egitim.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height:auto;
+}
+.iegitim{
+    color: aliceblue;
+    font-weight: 700;
+}
+.ayracb{
+    border: none;
+    border-top: 3px solid aliceblue;
+    max-width: 250px;
+    margin: 25px auto;
+    
+}
