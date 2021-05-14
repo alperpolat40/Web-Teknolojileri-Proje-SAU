@@ -1,0 +1,134 @@
+.resimSlider{
+    height: 600px;
+}
+body{
+ 
+ font-family: 'Raleway', sans-serif;
+}
+.hakkimda{
+    background-color:#f2f2f2;
+    
+}
+.ihakkımda{
+    font-weight: 700;
+}
+
+.ayrac{
+    border: none;
+    border-top: 3px solid#343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.igri{
+    color:#343a40;
+    position: relative;
+    top:-65px;
+    font-size:30px;
+}
+.ibeyaz{
+    color:#343a40;
+    position: relative;
+    top:-65px;
+    font-size:30px;
+    color: aliceblue;
+}
+.card-body{
+    height: 220px;
+    border:1px solid #ddd;
+    padding:2px;
+    font-weight: 400;
+    color:midnightblue;
+}
+.card-title{
+    font-size: 20px;
+    color:darkblue;
+    font-weight: 700;
+}
+.card-body:hover{
+    border:2px solid darkblue;
+}
+.egitim{
+    background-image: url("../img/egitim.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height:auto;
+}
+.iegitim{
+    color: aliceblue;
+    font-weight: 700;
+}
+.ayracb{
+    border: none;
+    border-top: 3px solid aliceblue;
+    max-width: 250px;
+    margin: 25px auto;
+    
+}
+.kirsehir{
+    background-image: url("../img/tar%C4%B1m.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height:auto;
+}
+.ikirsehir{
+    color: black;
+    position: relative;
+    font-size:30px;
+    font-weight:700; 
+}
+.ayracc{
+    border: none;
+    border-top: 3px solid black;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.icon{
+    color:black;
+    position: relative;
+    top:-65px;
+    font-size:30px;
+}
+.card-titlek{
+    font-size: 18px;
+    font-weight: 700;
+    color: red;
+}
+.card-bodyk{
+    height: 400px;
+    border:1px solid #ddd;
+    padding:2px;
+    font-weight: 400;
+    color: black
+}
+.card-bodyk:hover{
+    border:2px solid darkblue;
+}
+.iletisim{
+    background-color:#f2f2f2; 
+    height:auto;
+    
+}
+.iiletisim{
+    color: black;
+    position: relative;
+    font-size:30px;
+    font-weight:700;
+    
+}
+.isiyah{
+    color:black;
+    position: relative;
+    top:-65px;
+    font-size:30px;
+    
+}
+.ayracd{
+    border: none;
+    border-top: 3px solid black;
+    max-width: 250px;
+    margin: 25px auto;
+    
+}
